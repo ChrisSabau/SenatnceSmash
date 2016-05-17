@@ -1,3 +1,5 @@
+CODE WARS KATA 
+
 Description:
 
 Sentence Smash
